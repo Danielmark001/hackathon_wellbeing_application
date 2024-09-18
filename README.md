@@ -1,8 +1,8 @@
-# DreamQuest
+# Health.AI
 
 Fostering sleep and raising awareness about the importance of rest through AI
 
-## Getting Started
+## Better Sleep, Better Life
 
 In our pursuit of excellence, we recognise the need to constantly evaluate and improve the wellbeing of our community members. We understand that by fostering a culture of wellness, we can empower individuals to achieve their full potential, both academically/at work, and personally. 
 
