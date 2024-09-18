@@ -1,4 +1,4 @@
-# hackathon
+# DreamQuest
 
 Fostering sleep and raising awareness about the importance of rest through AI
 
