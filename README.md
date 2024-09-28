@@ -53,10 +53,10 @@ Contributions are welcome! To contribute to this project:
 Please make sure to update tests as appropriate.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT [License](https://github.com/Danielmark001/hackathon-wellbeing-application/blob/main/LICENSE).
 
 ## Contact
-For any inquiries or feedback, please email us at support@healthai.com.
+For any inquiries or feedback, please email me at [danielmark0103@gmail.com](https://mail.google.com/mail/u/danielmark0103@gmail.com/#compose)
 
 
 
