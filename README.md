@@ -1,6 +1,13 @@
 # Health.AI
 Welcome to HealthAI! This app is designed to help you improve your sleep quality and overall well-being. It integrates your calendar, uses AI to help plan your daily schedule, and gamifies sleep habits for motivation. Additionally, it offers a smart to-do list and journaling feature for holistic well-being.
 
+![Screenshot 2024-09-16 212806](https://github.com/user-attachments/assets/20fa449b-db5d-4c52-99c3-ffaf9d4c385c)
+Currently the application has been published to the Google Play Store, although the app is still in development. We plan on expanding on the personal journaling and gamification style of the application. The AI model has not been finalized yet. It is now available in 2 languages: English and Chinese (simplified).
+
+The link for the application in Google Play App Store can be accessed here: https://play.google.com/store/apps/details?id=com.health.ai 
+
+The new version 3.0.0 is currently in review and waiting for full rollout, and has been deployed to 17 countries in the world. While there are some difficulties in trying to integrate NTULearn to our application, we can have other alternatives such as using Google Calendar into our application, where push notifications are displayed in mobile phones as well.
+
 ## Features
 - Sleep Tracking: Track your sleep duration, quality, and consistency to optimize rest.
 - NTULearn Calendar Integration: Automatically sync your calendar with the app to help balance your academic and personal commitments.
@@ -33,29 +40,17 @@ By using Q-learning, HealthAI adapts to the user's unique habits and schedules, 
 - Cloud Services: AWS (S3, Lambda), Kubernetes for container orchestration
 - Integration: Google Calendar API, NTULearn API
 
-Installation
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/HealthAI.git
-cd HealthAI
-Install the required dependencies:
+## Contributing
+Contributions are welcome! To contribute to this project:
 
-bash
-Copy code
-pip install -r requirements.txt
-npm install
-Run the development server:
-
-bash
-Copy code
-python manage.py runserver
-npm start
-Visit http://localhost:3000 to view the app.
-
-Contributions
-We welcome contributions from the community! Please follow the contribution guidelines before submitting a pull request.
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/color-coding-events`).
+3. Make your changes and commit them (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git checkout -b feature/color-coding-events`).
+5. Open a pull request.
+   
+Please make sure to update tests as appropriate.
 
 ## License
 This project is licensed under the MIT License.
@@ -63,10 +58,5 @@ This project is licensed under the MIT License.
 ## Contact
 For any inquiries or feedback, please email us at support@healthai.com.
 
-![Screenshot 2024-09-16 212806](https://github.com/user-attachments/assets/20fa449b-db5d-4c52-99c3-ffaf9d4c385c)
-Currently the application has been published to the Google Play Store, although the app is still in development. We plan on expanding on the personal journaling and gamification style of the application. The AI model has not been finalized yet. It is now available in 2 languages: English and Chinese (simplified).
 
-The link for the application in Google Play App Store can be accessed here: https://play.google.com/store/apps/details?id=com.health.ai 
-
-The new version 3.0.0 is currently in review and waiting for full rollout, and has been deployed to 17 countries in the world. While there are some difficulties in trying to integrate NTULearn to our application, we can have other alternatives such as using Google Calendar into our application, where push notifications are displayed in mobile phones as well.
 
