@@ -33,9 +33,9 @@ HealthAI leverages Q-learning, a type of reinforcement learning algorithm, to op
 By using Q-learning, HealthAI adapts to the user's unique habits and schedules, providing personalized recommendations that improve over time as more data is collected.
 
 ## Tech Stack
-- Frontend: React
-- Backend: Django Rest Framework
-- AI Scheduling: Python-based AI models
+- Frontend: Dart, HTML
+- Backend: Firebase
+- AI Scheduling: Python-based AI models (Q-Learning)
 - Database: PostgreSQL
 - Cloud Services: AWS (S3, Lambda), Kubernetes for container orchestration
 - Integration: Google Calendar API, NTULearn API
