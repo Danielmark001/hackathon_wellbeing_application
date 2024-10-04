@@ -33,30 +33,13 @@ HealthAI leverages Q-learning, a type of reinforcement learning algorithm, to op
 By using Q-learning, HealthAI adapts to the user's unique habits and schedules, providing personalized recommendations that improve over time as more data is collected.
 
 ## Tech Stack
-- Frontend: Dart, HTML
+- Frontend: Dart, HTML, CSS
 - Backend: Firebase
 - AI Scheduling: Python-based AI models (Q-Learning)
-- Database: PostgreSQL
-- Cloud Services: AWS (S3, Lambda), Kubernetes for container orchestration
+- Database: NoSQL
 - Integration: Google Calendar API, NTULearn API
 
 
-## Contributing
-Contributions are welcome! To contribute to this project:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/color-coding-events`).
-3. Make your changes and commit them (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git checkout -b feature/color-coding-events`).
-5. Open a pull request.
-   
-Please make sure to update tests as appropriate.
-
-## License
-This project is licensed under the MIT [License](https://github.com/Danielmark001/hackathon-wellbeing-application/blob/flutterflow/LICENSE).
-
-## Contact
-For any inquiries or feedback, please email me at [danielmark0103@gmail.com](https://mail.google.com/mail/u/danielmark0103@gmail.com/#compose)
 
 
 
